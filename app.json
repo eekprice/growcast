@@ -2,6 +2,9 @@
   "expo": {
     "name": "growcast",
     "slug": "growcast",
-    "version": "1.0.0"
+    "version": "1.0.0",
+    "extra": {
+      "NOTION_KEY": "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"
+    }
   }
 }
